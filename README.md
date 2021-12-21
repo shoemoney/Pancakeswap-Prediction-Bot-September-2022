@@ -1,6 +1,6 @@
-# [HOT🔥UPDATE V2] 🎰 PancakeSwap is afraid of this! This bot is a casino winner
+# [UPDATE V2.02] PancakeSwap is afraid of this! This bot is a casino winner
 
-This bot wins almost every 5 minute BNB-USD option on PancakeSwap Prediction.
+This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
 Now it works with PancakePredictionV2.
 
@@ -27,15 +27,9 @@ https://user-images.githubusercontent.com/49167406/133898611-81375fb7-bf3e-4571-
 
 P.S. If you want to play Candle Genie instead of Pancake, start THIS BEAST with `npm run cg` or `yarn cg`
 
-P.S.S. NEW🔥STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --exp`, to use with Candle Genie – `npm run cg -- --exp` or `yarn cg --exp`
+P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --exp`, to use with Candle Genie – `npm run cg -- --exp` or `yarn cg --exp`
 
 ### Feel free to contribute. Good Luck!
-
-### I'm coding this stuff on a pure open source, so you have 2 options: either you share the profit with me through donation, or the bot starts taking money from you. These are the laws of the Universe. 🤡
-
-### `0xCAB557bDe170430e32CAD0167383624312254641`
-
-### [Trust Wallet One-Click Payment](https://link.trustwallet.com/send?asset=c20000714&address=0xCAB557bDe170430e32CAD0167383624312254641)
 
 ## 💥 Disclaimer
 
