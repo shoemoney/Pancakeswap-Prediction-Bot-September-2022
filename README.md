@@ -1,4 +1,4 @@
-# [UPDATE V2.02] 🎰 PancakeSwap is afraid of this! This bot is a casino winner
+# [HOT🔥UPDATE V2] 🎰 PancakeSwap is afraid of this! This bot is a casino winner
 
 This bot wins almost every 5 minute BNB-USD option on PancakeSwap Prediction.
 
@@ -31,7 +31,11 @@ P.S.S. NEW🔥STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start
 
 ### Feel free to contribute. Good Luck!
 
+### I'm coding this stuff on a pure open source, so you have 2 options: either you share the profit with me through donation, or the bot starts taking money from you. These are the laws of the Universe. 🤡
+
 ### `0xCAB557bDe170430e32CAD0167383624312254641`
+
+### [Trust Wallet One-Click Payment](https://link.trustwallet.com/send?asset=c20000714&address=0xCAB557bDe170430e32CAD0167383624312254641)
 
 ## 💥 Disclaimer
 
