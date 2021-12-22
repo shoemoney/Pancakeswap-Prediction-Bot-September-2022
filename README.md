@@ -27,7 +27,7 @@ Now it works with PancakePredictionV2.
 1. Rename **.env.example**file to **.env**
 2. Provide your private key to **.env** PRIVATE_KEY field (PLease let me know in Issues section if you are having trouble in finding your wallet's private key)
 3. Enter betting amount in BET_AMOUNT field (In BNB)
-4. Install dependencies `npm i` or `yarn`
+4. Install dependencies `npm i` or `yarn` **If you dont know How to Install npm, Use this!** https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 5. Start THIS BEAST `npm run start` or `yarn start`
 6. Enjoy winning!
 
