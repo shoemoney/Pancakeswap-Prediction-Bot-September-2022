@@ -1,4 +1,4 @@
-# 🍰 PancakeSwap-Bot 🍰 🔥 SOON: [UPDATE V2.03] 🔥
+# 🍰 PancakeSwap-Bot v2.02 🍰
 
 ![alt PancakeSwap Frot](5B6C29D1-42A1-4B50-8E59-60A6352A6EC0.jpeg)
 
@@ -13,7 +13,7 @@ Now it works with PancakePredictionV2.
 
 ## 📈 Updates 
 
-[Update 2.03]: Available soon supports [Uniswap] & [ApeSwap] 
+[Available soon]: supports [Uniswap] & [ApeSwap] 
 
 [Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag)
 
