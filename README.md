@@ -19,8 +19,6 @@ Now it works with PancakePredictionV2.
 
 [Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
 
-
-![alt PancakeSwap Prediction Bot-Winner](ppw-image.png)
 ![alt PancakeSwap Prediction Bot-Winner Screenshot](ppw-image-2.png)
 ![alt Candle Genie Bot-Winner Screenshot](ppw-image-3.png)
 
