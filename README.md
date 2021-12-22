@@ -1,4 +1,4 @@
-# [UPDATE V2.02] PancakeSwap is afraid of this! SOON: [UPDATE V2.03] supports [Uniswap] & [ApeSwap]
+# [UPDATE V2.02] PancakeSwap is afraid of this! SOON: [UPDATE V2.03]
 
 This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
