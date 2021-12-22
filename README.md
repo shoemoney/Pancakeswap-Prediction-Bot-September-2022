@@ -1,4 +1,4 @@
-# 🍰 PancakeSwap-Bot v2.02 🍰
+# 🍰 PancakeSwap-Frontbot v2.02 🍰
 
 ![alt PancakeSwap Frot](5B6C29D1-42A1-4B50-8E59-60A6352A6EC0.jpeg)
 
