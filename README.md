@@ -4,9 +4,9 @@ This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
 Now it works with PancakePredictionV2.
 
-[Update 2.2]: Now supports Strategy Choice (start the bot with `--exp` flag)
+[Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag)
 
-[Update 2.1]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
+[Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
 
 #### Beware of forks. I do not give any guarantee that the fork may turn out to be a scam.
 
