@@ -10,9 +10,6 @@ Now it works with PancakePredictionV2.
 
 [Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
 
-#### Beware of forks. I do not give any guarantee that the fork may turn out to be a scam.
-
-https://user-images.githubusercontent.com/49167406/133898611-81375fb7-bf3e-4571-9848-9b2447b57eee.mp4
 
 ![alt PancakeSwap Prediction Bot-Winner](ppw-image.png)
 ![alt PancakeSwap Prediction Bot-Winner Screenshot](ppw-image-2.png)
@@ -26,6 +23,8 @@ https://user-images.githubusercontent.com/49167406/133898611-81375fb7-bf3e-4571-
 4. Install dependencies `npm i` or `yarn`
 5. Start THIS BEAST `npm run start` or `yarn start`
 6. Enjoy winning!
+
+
 
 P.S. If you want to play Candle Genie instead of Pancake, start THIS BEAST with `npm run cg` or `yarn cg`
 
