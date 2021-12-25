@@ -44,7 +44,9 @@ P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --
 
 ## ⚠️ Beware of clones!!
 
-Beware of forks. I do not give any guarantee that the fork may turn out to be a scam. I'm coding this stuff on a pure open source. I do my best to publish       constant updates and bug fixes. the bot has a very small tax in the claim function, so we both win. At the same time you support me, this project and the following projects 🙂
+Beware of forks. I do not give any guarantee that the fork may turn out to be a scam. I'm coding this stuff on a pure open source. I do my best to publish       constant updates and bug fixes. the bot has a very small tax in the claim function, so we both win. At the same time you support me, this project and the following projects. 
+
+Love you all and thank you to use my Script ☺️❤️
 
 
 ## 🌈 Disclaimer
