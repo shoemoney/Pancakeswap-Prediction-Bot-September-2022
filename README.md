@@ -9,13 +9,15 @@
 
 This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
-Now it works with PancakePredictionV2.
+**Scroll down for more Details.**
 
 ## 📈 Updates 
 
 [Available soon]: supports [Uniswap] & [ApeSwap] 
 
-[Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag)
+[Update 2.03]: Fixed some Bugs
+
+[Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag) | Now it works with PancakePredictionV2.
 
 [Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
 
@@ -27,7 +29,7 @@ Now it works with PancakePredictionV2.
 1. Rename **.env.example**file to **.env**
 2. Provide your private key to **.env** PRIVATE_KEY field (PLease let me know in Issues section if you are having trouble in finding your wallet's private key)
 3. Enter betting amount in BET_AMOUNT field (In BNB)
-4. Install dependencies `npm i` or `yarn` **If you dont know How to Install npm, Use this!**          https://phoenixnap.com/kb/install-node-js-npm-on-windows
+4. Install dependencies `npm i` or `yarn` **If you dont know How to Use npm, Use this!**          https://phoenixnap.com/kb/install-node-js-npm-on-windows
 5. Start THIS BEAST `npm run start` or `yarn start`
 6. Enjoy winning!
 
@@ -39,7 +41,13 @@ P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --
 
 ### Feel free to contribute. Good Luck!
 
-## 💥 Disclaimer
+
+## ⚠️ Beware of clones!!
+
+Beware of forks. I do not give any guarantee that the fork may turn out to be a scam. I'm coding this stuff on a pure open source. I do my best to publish       constant updates and bug fixes. the bot has a very small tax in the claim function, so we both win. At the same time you support me, this project and the following projects 🙂
+
+
+## 🌈 Disclaimer
 
 All investment strategies and investments involve risk of loss.
 **Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
