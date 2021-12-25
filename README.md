@@ -1,4 +1,4 @@
-# INFO: found a bug. Update comes on December 23-24. currently not usable. 🥞 Pancakeswap/Uniswap Prediction Bot v2.02 🥞
+# 🥞 Pancakeswap/Uniswap Prediction Bot v2.03 🥞
 
 ![alt PancakeSwap Frot](5B6C29D1-42A1-4B50-8E59-60A6352A6EC0.jpeg)
 
