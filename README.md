@@ -1,6 +1,6 @@
 # 🥞 Pancakeswap/Uniswap Prediction Bot v2.03 🥞
 
-![alt PancakeSwap Frot](5B6C29D1-42A1-4B50-8E59-60A6352A6EC0.jpeg)
+![alt PancakeSwap Frot](png_3.jpeg)
 
 
 
@@ -19,8 +19,8 @@ Now it works with PancakePredictionV2.
 
 [Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
 
-![alt PancakeSwap Prediction Bot-Winner Screenshot](ppw-image-2.png)
-![alt Candle Genie Bot-Winner Screenshot](ppw-image-3.png)
+![alt PancakeSwap Prediction Bot-Winner Screenshot](png_1.png)
+![alt Candle Genie Bot-Winner Screenshot](png_2.png)
 
 ## 💡 How to use
 
