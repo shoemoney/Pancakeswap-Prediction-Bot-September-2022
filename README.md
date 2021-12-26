@@ -39,7 +39,7 @@ P.S. If you want to play Candle Genie instead of Pancake, start THIS BEAST with 
 
 P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --exp`, to use with Candle Genie – `npm run cg -- --exp` or `yarn cg --exp`
 
-### Feel free to contribute. Good Luck!
+### Feel free to contribute. Good Luck
 
 
 ## ⚠️ Beware of clones!!
