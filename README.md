@@ -1,6 +1,6 @@
 # 🥞 Pancakeswap/Uniswap Prediction Bot v2.03 🥞
 
-![alt PancakeSwap Frot](png_3.jpeg)
+![alt PancakeSwap Frot]()
 
 
 
