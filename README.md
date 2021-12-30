@@ -1,4 +1,4 @@
-# 🥞 Pancakeswap/Uniswap Prediction Bot v2.03 🥞
+# 🥞 Pancakeswap/Uniswap Prediction Bot v2.03/ 2.1 SOON🥞
 
 ![alt PancakeSwap Frot](png_4.png)
 
