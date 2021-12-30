@@ -49,17 +49,6 @@ Beware of forks. I do not give any guarantee that the fork may turn out to be a 
 Love you all and thank you to use my Script ☺️❤️
 
 
-## Strategy
-
- The strategy can be found in [src/lib.ts](https://github.com/AssaEmpireToken/Pancakeswap-Prediction-Bot-NEW-v2.03/blob/main/src/lib.ts#L38). The base strategy looks at the bull and bear total bet amounts at the time the bet is made.
-
- It bets bear if (bull > bear and bull / bear < 5) OR (bull < bear and bear / bull > 5) otherwise bet bull.
-
- Experimental option just flips the bets.
- 
- thanks to @bsc-predict
-
-
 ## 🌈 Disclaimer
 
 All investment strategies and investments involve risk of loss.
