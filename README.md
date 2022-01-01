@@ -13,7 +13,7 @@ This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
 ## 📈 Updates 
 
-[Available soon]: supports [Uniswap] & [ApeSwap]. Change strategy.
+[Available soon]: supports [Uniswap] & [ApeSwap].
 
 [Update 2.03]: Fixed some Bugs. Update 2.1 Available soon with many Updates😍
 
