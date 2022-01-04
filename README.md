@@ -13,18 +13,12 @@ This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
 **Scroll down for more Details.**
 
-## 📈 Updates 
 
-[Available soon]: supports [Uniswap] & [ApeSwap].
-
-[Update 2.03]: Fixed some Bugs. Update 2.1 Available soon with many Updates😍
-
-[Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag) | Now it works with PancakePredictionV2.
-
-[Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
-
-![alt PancakeSwap Prediction Bot-Winner Screenshot](png_1.png)
-![alt Candle Genie Bot-Winner Screenshot](png_2.png)
+### 🦊 How to Export Private Key from MetaMask
+1. Open your account
+2. Click on three points at top-right corner
+3. Account details
+4. Export Private Key
 
 ## ✨ Installation
 
@@ -33,8 +27,9 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell.  
 
-- Type ``cd PancakeSwap-Prediction-v2`` (replace with your cloned/downloaded bot folder)
+- Type ``cd PanCakeSwap Bot v2.03`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
+
 
 ## 💡 How to use
 
@@ -45,18 +40,26 @@ Then run command prompt or powershell.
 5. Start THIS BEAST `npm run start` or `yarn start`
 6. Enjoy winning!
 
-### 🦊 How to Export Private Key from MetaMask
-1. Open your account
-2. Click on three points at top-right corner
-3. Account details
-4. Export Private Key
-
 P.S. If you want to play Candle Genie instead of Pancake, start THIS BEAST with `npm run cg` or `yarn cg`
 
 P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --exp`, to use with Candle Genie – `npm run cg -- --exp` or `yarn cg --exp`
 
 ### Feel free to contribute. Good Luck
 
+## 📈 Updates 
+
+[Available soon]: supports [Uniswap] & [ApeSwap].
+
+[Update 2.03]: Fixed some Bugs. Update 2.1 Available soon with many Updates😍
+
+[Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag) | Now it works with PancakePredictionV2.
+
+[Update 2.01]: Now supports [Candle Genie](https://candlegenie.io/prediction) BTC Price Option
+
+## 🧪 Screenshots 
+
+![alt PancakeSwap Prediction Bot-Winner Screenshot](png_1.png)
+![alt Candle Genie Bot-Winner Screenshot](png_2.png)
 
 ## ⚠️ Beware of clones!!
 
