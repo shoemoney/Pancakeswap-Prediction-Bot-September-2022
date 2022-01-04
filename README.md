@@ -26,16 +26,30 @@ This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 ![alt PancakeSwap Prediction Bot-Winner Screenshot](png_1.png)
 ![alt Candle Genie Bot-Winner Screenshot](png_2.png)
 
+## ✨ Installation
+
+Download & Install Node here :
+https://nodejs.org/en/download/
+
+Then run command prompt or powershell.  
+
+- Type ``cd PancakeSwap-Prediction-v2`` (replace with your cloned/downloaded bot folder)
+- Type ``npm i``
+
 ## 💡 How to use
 
 1. Rename **.env.example**file to **.env**
 2. Provide your private key to **.env** PRIVATE_KEY field (PLease let me know in Issues section if you are having trouble in finding your wallet's private key)
 3. Enter betting amount in BET_AMOUNT field (In BNB)
-4. Install dependencies `npm i` or `yarn` **If you dont know How to Use npm, Use this!**          https://phoenixnap.com/kb/install-node-js-npm-on-windows
+4. Install dependencies `npm i` or `yarn`
 5. Start THIS BEAST `npm run start` or `yarn start`
 6. Enjoy winning!
 
-
+### 🦊 How to Export Private Key from MetaMask
+1. Open your account
+2. Click on three points at top-right corner
+3. Account details
+4. Export Private Key
 
 P.S. If you want to play Candle Genie instead of Pancake, start THIS BEAST with `npm run cg` or `yarn cg`
 
