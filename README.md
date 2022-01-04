@@ -7,6 +7,8 @@
 
 ## ℹ️ Information 
 
+**New Update comes 01/12/22**
+
 This bot wins almost evey 5 minute BNB-USD option on PancakeSwap Prediction.
 
 **Scroll down for more Details.**
