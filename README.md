@@ -1,4 +1,4 @@
-# 🥞 Pancakeswap/Uniswap Prediction Bot v2.03 🥞
+# 🥞 Pancakeswap/Uniswap Prediction Bot v2.1 🥞
 
 ![alt PancakeSwap Frot](logo.png)
 
@@ -52,7 +52,9 @@ P.S.S. NEW STRATEGY: Start THIS BEAST `npm run start -- --exp` or `yarn start --
 
 [Available soon]: supports [Uniswap] & [ApeSwap].
 
-[Update 2.03]: Fixed some Bugs. Update 2.1 Available soon with many Updates😍
+[Update 2.1]: Fixed some Bugs.
+
+[Update 2.03]: Fixed some Bugs. Update 2.2 Available soon with many Updates😍
 
 [Update 2.02]: Now supports Strategy Choice (start the bot with `--exp` flag) | Now it works with PancakePredictionV2.
 
