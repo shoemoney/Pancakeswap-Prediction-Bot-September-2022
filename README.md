@@ -29,7 +29,7 @@ BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️. 
 
-## 💡 Installation
+## 💡 Installation 
 
 Download & Install Node here :
 https://nodejs.org/en/download/
