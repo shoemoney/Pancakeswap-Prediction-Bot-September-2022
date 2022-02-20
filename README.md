@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
   </a>
   
-
+Our YT Video: https://www.youtube.com/watch?v=oI8YoWaqALE&t=7s
+  
+  
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
 ## our thanks:
