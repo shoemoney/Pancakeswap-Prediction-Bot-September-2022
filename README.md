@@ -2,6 +2,7 @@
 # **🥞 PancakeSwap Prediction v2.1 🥞**
 
 
+
 ![PancakeSwap-Logo-Big](34B97E09-845C-4067-A95F-17267945D826.jpeg)
 <p align="center">
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
