@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
   </a>
   
-## ⚠️**WARNING**
-**WARNING** **https://github.com/parames3010/PancakeswapPredictionBot-2022 is a copy of our project don't be scammed**
   
   
 ## Our YT Video: https://www.youtube.com/watch?v=oI8YoWaqALE&t=7s
