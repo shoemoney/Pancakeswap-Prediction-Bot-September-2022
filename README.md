@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v3.0 new Update 🥞**
+# **🥞 PancakeSwap Prediction v4.0.0 new Update 🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
