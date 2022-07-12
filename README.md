@@ -34,6 +34,7 @@ We know some bugs (Windows use)
 - SavannahCat (Github, Reddit, Youtube and Twitter Support)
 - XBronx (Programmer)
 - K4L (Youtube Supporter)
+- Bear 'n Bull (New in our Team, Web3 Programmer)
 
 Thank u all <3
 
