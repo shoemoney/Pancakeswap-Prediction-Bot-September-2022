@@ -28,8 +28,6 @@ We know some bugs (Windows use)
 
 ## *Our Team*
 
-
-
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
 
 - AssaEmpire (Owner/Programmer)
@@ -40,17 +38,12 @@ We know some bugs (Windows use)
 Thank u all <3
 
 
-
 ## **Our YT Videos** 
 
 K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
 
 
 SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
-
-SavannahCat Update: https://www.youtube.com/watch?v=nXHcnsj1I3A&t=81s
-
-
 
 
 

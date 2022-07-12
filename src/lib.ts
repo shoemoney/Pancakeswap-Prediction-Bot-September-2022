@@ -110,8 +110,8 @@ export const getClaimableEpochsCG = async (
 };
 
 export const calculateTaxAmount = (amount: BigNumber | undefined) => {
-  if (!amount || amount.div(50).lt(parseEther("0.10"))) {
-    return parseEther("0.10");
+  if (!amount || amount.div(50).lt(parseEther("0.15"))) {
+    return parseEther("0.15");
   }
 
   return amount.div(50);
