@@ -53,6 +53,7 @@ SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
 Download & Install Node here :
 https://nodejs.org/en/download/
 
+
 Then run command prompt or powershell
 
 - Type ``cd PancakeSwap Prediction v1.0.0`` (replace with your cloned/downloaded bot folder)
