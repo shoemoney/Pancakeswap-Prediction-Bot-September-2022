@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v4.0.0 New Update  07/12/22 🥞**
+# **🥞 PancakeSwap Prediction v4.0.1 New Update  08/24/22 🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
@@ -49,6 +49,7 @@ K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
 SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
 
 
+PancakeSwapUS: https://www.youtube.com/watch?v=pmoCL_iWqqA
 
 ## 💡 Installation.
 
