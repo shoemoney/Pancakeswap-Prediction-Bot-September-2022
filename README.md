@@ -1,6 +1,7 @@
 # **🥞 PancakeSwap Prediction v4.0.1 New Update  08/24/22 🥞**
 
 
+
 ![PancakeSwap-Logo-Big](logo.jpeg)
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
